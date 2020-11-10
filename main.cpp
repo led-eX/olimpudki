@@ -38,3 +38,5 @@ int main ()
     }
     return 0;
 }
+https://pastebin.com/rRVytBtq
+https://codeforces.com/gym/102806/problem/A
